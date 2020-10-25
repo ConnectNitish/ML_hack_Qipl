@@ -1,4 +1,4 @@
-﻿ID,Insects,Crop,Soil,Category_of_Toxicant,Does_count,Number_of_Weeks_Used,Number_Weeks_does_not used,Season,Crop_status
+﻿ID,Insects,Crop,Soil,Category_of_Toxicant,Does_count,Number_of_Weeks_Used,Number_Weeks_does_not_used,Season,Crop_status
 1,188,Feed,silt,1,0,,0,2,1
 2,410,Feed,silt,1,0,0,0,2,1
 3,626,Feed,clay,1,0,0,0,2,1
